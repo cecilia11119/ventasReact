@@ -13,7 +13,7 @@ const MiOrg = (props) => {
     // }
 
     return <section className="orgSection">
-        <h3 className="title">Control de Ventas</h3>
+        <h3 className="title">Formulario Ventas</h3>
         <img src="/img/add.png" alt="add" onClick={props.cambiarMostrar} />
     </section>
 }
